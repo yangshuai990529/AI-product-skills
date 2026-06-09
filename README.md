@@ -1,59 +1,41 @@
-# AI-product-skills
-🚀 The ultimate AI Product Manager Skills collection. Product Discovery, PRD, SR, User Story, API Design, Test Case and Product Research for every LLM.
+# 🚀 AI Product Skills
 
-------------------------------------
+Enterprise AI Product Manager Skills Collection.
 
-📦 Skills
+Think like a Product Team, not a Prompt.
 
-✅ ProductManager-Pro
+## ✨ Features
 
-Enterprise Product Manager Agent
+- 📊 Product Discovery
+- 👥 User Research
+- 🔍 Competitor Analysis
+- 📝 PRD Generation
+- 📋 SR Decomposition
+- 📖 User Story
+- 🔗 API Design
+- 🗄 Database Design
+- 📈 Event Tracking
+- ✅ Test Case
+- 🚀 Release Checklist
+- 🎨 Figma Structure
+- 📐 Mermaid Flowchart
 
-Status:
-Stable
+## 🤖 Supported Models
 
-------------------------------------
+- OpenAI GPT
+- Codex
+- Claude
+- Gemini
+- Qwen
+- OpenClaw
+- Hermes
+- Cursor
+- Windsurf
 
-Coming Soon
+## 🌏 Default Language
 
-🔹 PRD Writer
+All skills generate **Simplified Chinese** output by default unless explicitly requested otherwise.
 
-🔹 SR Generator
-
-🔹 User Research
-
-🔹 Competitor Analysis
-
-🔹 API Designer
-
-🔹 Test Case Generator
-
-------------------------------------
-
-Supported Models
-
-✓ Codex
-
-✓ ChatGPT
-
-✓ Claude
-
-✓ Gemini
-
-✓ Qwen
-
-✓ OpenClaw
-
-✓ Hermes
-
-------------------------------------
-
-Default Language
-
-🇨🇳 Simplified Chinese
-
-------------------------------------
-
-License
+## 📄 License
 
 MIT
